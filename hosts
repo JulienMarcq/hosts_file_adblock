@@ -1,7 +1,3 @@
-{ config, pkgs, ... }:
-
-{ networking.extraHosts = ''
-
 # Comment by Florian Paul Schmidt: Removed some localhost entries.
 
 # This hosts file is brought to you by Dan Pollock and can be found at
